@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ranga Karthi\\source\\repos\\TicketReservationSystem.Api_RangaKaarthi\\TicketReservationSystem.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E24314BF-0B32-49EE-AAD8-DAFE835C3FCF}|TestProject1\\TestProject1.csproj|c:\\users\\ranga karthi\\source\\repos\\ticketreservationsystem.api_rangakaarthi\\ticketreservationsystem.api\\testproject1\\bookingcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24314BF-0B32-49EE-AAD8-DAFE835C3FCF}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\bookingcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44356E2E-7B81-47C0-AD0D-567B240CEBFC}|TicketReservationSystem.Api\\TicketReservationSystem.Api.csproj|c:\\users\\ranga karthi\\source\\repos\\ticketreservationsystem.api_rangakaarthi\\ticketreservationsystem.api\\ticketreservationsystem.api\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44356E2E-7B81-47C0-AD0D-567B240CEBFC}|TicketReservationSystem.Api\\TicketReservationSystem.Api.csproj|solutionrelative:ticketreservationsystem.api\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44356E2E-7B81-47C0-AD0D-567B240CEBFC}|TicketReservationSystem.Api\\TicketReservationSystem.Api.csproj|c:\\users\\ranga karthi\\source\\repos\\ticketreservationsystem.api_rangakaarthi\\ticketreservationsystem.api\\ticketreservationsystem.api\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44356E2E-7B81-47C0-AD0D-567B240CEBFC}|TicketReservationSystem.Api\\TicketReservationSystem.Api.csproj|solutionrelative:ticketreservationsystem.api\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\Ranga Karthi\\source\\repos\\TicketReservationSystem.Api_RangaKaarthi\\TicketReservationSystem.Api\\TicketReservationSystem.Api\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "TicketReservationSystem.Api\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\Ranga Karthi\\source\\repos\\TicketReservationSystem.Api_RangaKaarthi\\TicketReservationSystem.Api\\TicketReservationSystem.Api\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "TicketReservationSystem.Api\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:03:37.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\Ranga Karthi\\source\\repos\\TicketReservationSystem.Api_RangaKaarthi\\TicketReservationSystem.Api\\TicketReservationSystem.Api\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "TicketReservationSystem.Api\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\Ranga Karthi\\source\\repos\\TicketReservationSystem.Api_RangaKaarthi\\TicketReservationSystem.Api\\TicketReservationSystem.Api\\Controllers\\EventController.cs",
+              "RelativeToolTip": "TicketReservationSystem.Api\\Controllers\\EventController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA0wBoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:59:45.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Ranga Karthi\\source\\repos\\TicketReservationSystem.Api_RangaKaarthi\\TicketReservationSystem.Api\\TestProject1\\BookingControllerTests.cs",
+              "RelativeDocumentMoniker": "TestProject1\\BookingControllerTests.cs",
+              "ToolTip": "C:\\Users\\Ranga Karthi\\source\\repos\\TicketReservationSystem.Api_RangaKaarthi\\TicketReservationSystem.Api\\TestProject1\\BookingControllerTests.cs",
+              "RelativeToolTip": "TestProject1\\BookingControllerTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAH0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:34:16.908Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
